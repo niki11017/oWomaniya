@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>oWomaniya</title>
+  <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
+  <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway|Candal">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.min.css') }}" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+  <!-- =======================================================
+    Theme Name: Medilab
+    Theme URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+</head>
+
+
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+
+  {% block content %}
+  
+  <!--results-->
+  <section id="about" class="section-padding">
+    <div class="container">
+      <div class="row">  
+        <div class="col-md-9 col-sm-8 col-xs-12">
+          <div style="visibility: visible;" class="col-sm-9 more-features-box">
+            <div class="more-features-box-text">
+              <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
+              <div class="more-features-box-text-description">
+                <h3>Here are your results. </h3>
+                {%if result == 1%}
+   
+                <p>After Hearing you out we feel that you're prone to PCOD/PCOS!</p>
+                </br>
+               
+                <p>No need to worry though ,just get yourself checked by your nearby gynecologist!</p>
+                <a href="https://www.google.com/search?q=nearby+gynaecologist+clinic&oq=nearby+gynae&aqs=chrome.5.0j69i57j0j0i457j46i175i199j0l2j0i22i30j0i10i22i30l2.15519j0j7&sourceid=chrome&ie=UTF-8" class="btn btn-appoint">Search here for nearby nearby gynaecologist clinic</a>
+                  
+                 
+                </div>
+                {%else%}
+                <p>Yay! you are not quite prone to PCOS /PCOD :) </p>
+                <p>Although we strongly encourage you to adapt a healthy lifestyle and stick with it.Almost don't forget have checkups periodically in 6 months atleast 
+                  related to symptoms shown besides.
+                </p>
+                <br>
+                 
+                   
+            
+            
+                </div>
+                <br>
+       
+                {%endif%}
+              </div>
+              
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+{% endblock %}
+</body>
+</html>
