@@ -3,6 +3,7 @@ A Web Application for detection for PCOS / PCOD and Breast Cancer
 
 How to run this application on local machine.
 prerequisite:install flask using command $ pip install Flask
+
 1.download this file ,extract oWomaniya Folder on your Desktop
 
 2.Open your command Prompt (cmd) and type following commands:
