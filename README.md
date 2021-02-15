@@ -15,5 +15,6 @@ cd desktop
 cd oWomaniya
 flask run
 ```
+
 3. you will receive an Loopback IP address also known as localhost,copy it on your browser and you are good to go.
 
