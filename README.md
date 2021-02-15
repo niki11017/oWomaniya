@@ -1,7 +1,7 @@
 # oWomaniya
 A Web Application for detection for PCOS / PCOD and Breast Cancer
 
-##Installation
+## Installation
 How to run this application on local machine.
 prerequisite:install flask using command 
 ```bash
