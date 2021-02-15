@@ -25,7 +25,14 @@ PCOD ,PCOS and Breast Cancer being the most common thing among females is also t
 
 oWomaniya promotes the awareness of conditions like breast cancer and PCOD/PCOS by providing casual checkup to detect early signs of the disease.Using Machine learning models ,python libraries and dataset provided by Kaggle we have obtained a solution for a quick detection of these ailments for better prevention.Early prediction and diagnosis is much better than treatment at the last stages .This also helps in increasing the survival rate of the individual in many cases.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/1.png?raw=true)
+![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/2.png?raw=true)
+![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/3.png?raw=true)
+![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/4.png?raw=true)
+![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/5.png?raw=true)
+![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/6.png?raw=true)
+![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/7.png?raw=true)
+![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/8.png?raw=true)
 
 
 
