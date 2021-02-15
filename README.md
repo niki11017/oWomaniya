@@ -29,6 +29,8 @@ Here is demo video of our application.
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=LgWu0xiQU3g&feature=youtu.be)
 
+[![Watch the video](https://img.youtube.com/vi/LgWu0xiQU3g&feature=youtu.be/maxresdefault.jpg)](https://www.youtube.com/watch?v=LgWu0xiQU3g&feature=youtu.be
+
 ![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/1.png?raw=true)
 ![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/2.png?raw=true)
 ![alt text](https://github.com/niki11017/oWomaniya/blob/main/oWomaniya-img/3.png?raw=true)
